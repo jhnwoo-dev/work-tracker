@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Dosis', sans-serif;
+
+}
+
+.header {
+    height:200px;
+    background-color: #57886C;
+    display: block;
+    text-align: center;
+}
+
+.title {
+    margin-bottom:20px;
+    padding-top:40px;
+    color: whitesmoke;
+    font-size: 32px;
+}
+.sub-title{
+    margin-bottom:10px;
+    color: whitesmoke;
+}
